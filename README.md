@@ -10,7 +10,7 @@ Eksperimen uniform spatial downsampling (sampai skala ekstrem 2x2) dan upsamplin
 │   ├── armadillo-0018.jpg
 │   ├── kangaroo-0008.jpg
 │   └── polar_bear-0010.jpg
-├── Assignment_1_PCD_Jundan_Saiful_Haq_560768.ipynb
+├── PCD_Assignment01.ipynb
 ├── Laporan_PCD_Sampling_Rekonstruksi.pdf
 └── README.md
 ```
